@@ -1,6 +1,1 @@
-fastapi
-uvicorn[standard]
-httpx
-beautifulsoup4
-sqlalchemy
-psycopg2-binary
+# No third-party packages required for the updater.

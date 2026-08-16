@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2F20250902_193521_ec2f00c2.png&time=20%3A00+16%2F08" group-title="CHUỐI CHIÊN TV",20:00 16/08 Malaysia vs Việt Nam (Chuối Chao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2F20250902_193521_ec2f00c2.png&time=20%3A00+16%2F08" group-title="CHUỐI CHIÊN TV",20:00 16/08 Malaysia vs Việt Nam (A Ngao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125547_ba273b85.png&time=21%3A00+16%2F08" group-title="CHUỐI CHIÊN TV",21:00 16/08 Arsenal vs Manchester City (Trốc Tru) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125547_ba273b85.png&time=21%3A00+16%2F08" group-title="CHUỐI CHIÊN TV",21:00 16/08 Arsenal vs Manchester City (Chuối Đá) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_133518_5790e498.png&time=21%3A30+16%2F08" group-title="CHUỐI CHIÊN TV",21:30 16/08 FC Basel 1893 vs Barcelona (Chuối To) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_133422_ff184cd3.png&time=22%3A00+16%2F08" group-title="CHUỐI CHIÊN TV",22:00 16/08 Racing Santander vs Villarreal (Chuối Tây) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_130300_280f64ff.png&time=22%3A00+16%2F08" group-title="CHUỐI CHIÊN TV",22:00 16/08 FC Schalke 04 vs Real Madrid (Chuối Nhỏ) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125624_d0355588.png&time=00%3A00+17%2F08" group-title="CHUỐI CHIÊN TV",00:00 17/08 Espanyol vs Levante (Chuối Chao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125518_51812477.png&time=01%3A45+17%2F08" group-title="CHUỐI CHIÊN TV",01:45 17/08 Lens vs Paris Saint Germain (Chuối Nhỏ) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125559_9e8fc4c8.png&time=02%3A15+17%2F08" group-title="CHUỐI CHIÊN TV",02:15 17/08 Lazio vs Mantova (Chuối Đá) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125539_69da02c8.png&time=04%3A30+17%2F08" group-title="CHUỐI CHIÊN TV",04:30 17/08 Vitoria vs Botafogo (A Ngao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_132728_39bee3ac.png&time=06%3A15+17%2F08" group-title="CHUỐI CHIÊN TV",06:15 17/08 Barracas Central vs Rosario Central (Chuối Tây) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_131612_978dc6e7.png&time=07%3A30+17%2F08" group-title="CHUỐI CHIÊN TV",07:30 17/08 Austin vs FC Dallas (Chuối To) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinhlagi.pro/merge_logos.php?home=https%3A%2F%2Ftinhlagi.pro%2Flogo.jpg&away=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_131433_5265d61a.png&time=09%3A30+17%2F08" group-title="CHUỐI CHIÊN TV",09:30 17/08 Seattle Sounders vs Vancouver Whitecaps (A Ngao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
