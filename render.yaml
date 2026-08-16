@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: my-iptv
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: my-iptv-db
+          property: connectionString
+
+  - type: cron
+    name: my-iptv-sync
+    runtime: python
+    schedule: "*/10 * * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python sync.py
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: my-iptv-db
+          property: connectionString
+
+databases:
+  - name: my-iptv-db
