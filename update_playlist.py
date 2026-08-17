@@ -90,23 +90,23 @@ def main():
 
     for item in entries:
         if stream_is_alive(item):
-    extinf = item["extinf"]
+            extinf = item["extinf"]
 
-    # Remove tvg-logo if it points to tinhlagi.pro
-    extinf = re.sub(
-        r'\s+tvg-logo="https?://tinhlagi\.pro[^"]*"',
-        "",
-        extinf,
-        flags=re.IGNORECASE,
-    )
+            # Remove tvg-logo if it points to tinhlagi.pro
+            extinf = re.sub(
+                r'\s+tvg-logo="https?://tinhlagi\.pro[^"]*"',
+                "",
+                extinf,
+                flags=re.IGNORECASE,
+            )
 
-    lines.append(extinf)
+            lines.append(extinf)
 
-    for meta in item["meta"]:
-        lines.append(meta)
+            for meta in item["meta"]:
+                lines.append(meta)
 
-    lines.append(item["url"])
-    alive += 1
+            lines.append(item["url"])
+            alive += 1
 
     OUTPUT.write_text(
         "\n".join(lines) + "\n",
